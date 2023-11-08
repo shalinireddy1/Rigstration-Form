@@ -24,12 +24,12 @@
    <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://13.211.234.89:8081/repository/Cloud-Gen-shalini/</url>
+            <url>http://192.168.16.139:8081/repository/Cloud-Gen-shalini/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://13.211.234.89:8081/repository/Cloud-Gen-Snap/</url>
+            <url>http://192.168.16.139:8081/repository/Cloud-Gen-Snap/</url>
         </snapshotRepository>
     <site>
       <id>site-server</id>
